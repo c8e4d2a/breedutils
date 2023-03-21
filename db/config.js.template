@@ -1,0 +1,10 @@
+export const config = {
+    db: {
+        host                        : 'localhost',
+        port                        : 5323,
+        database                    : 'bobo_dev',
+        username                    : 'bobo',
+        password                    : 'yKChhOmfoZty7bl',
+    },
+    NFT_STORAGE_KEY: '' // get your free key at https://nft.storage/
+}

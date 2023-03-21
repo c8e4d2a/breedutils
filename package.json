@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@fleet-sdk/core": "^0.1.0-alpha.20",
+    "@scure/base": "^1.1.1",
+    "mime": "^3.0.0",
+    "nft.storage": "^7.0.3",
+    "node-fetch": "^3.3.0",
+    "postgres": "^3.3.4",
+    "uuid": "^9.0.0"
+  }
+}
